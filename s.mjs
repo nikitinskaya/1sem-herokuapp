@@ -1,5 +1,5 @@
 import express from 'express';
-const PORT=4321;
+const PORT=4321,
       CORS = {
         'Access-Control-Allow-Origin': '*',
         'Access-Control-Allow-Methods': 'GET,POST,DELETE',
